@@ -52,6 +52,33 @@ const musicData = [
     artist: "No Spirit",
     musicPath: "./assets/music/music-5.mp3",
   },
+  {
+    backgroundImage: "./assets/images/poster-6.png",
+    posterUrl: "./assets/images/poster-6.png",
+    title: "Until I Found You",
+    album: "Easy On My Eyes",
+    year: 2021,
+    artist: "Stephen Sanchez",
+    musicPath: "./assets/music/music-6.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-7.jpg",
+    posterUrl: "./assets/images/poster-7.jpg",
+    title: "Perfect",
+    album: "Divide",
+    year: 2017,
+    artist: "Ed Sheeran",
+    musicPath: "./assets/music/music-7.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-8.jpg",
+    posterUrl: "./assets/images/poster-8.jpg",
+    title: "Tum Prem Ho",
+    album: "Radha Krishna",
+    year: 2018,
+    artist: "Unknown",
+    musicPath: "./assets/music/music-8.mp3",
+  },
 ];
 
 
